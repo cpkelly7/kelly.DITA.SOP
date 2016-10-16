@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_howtoclean_steps">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Unplug the appliance and make sure that it is completely turned off.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the freezer bowl, mixing arm, and easy-lock lid. </cmd>
+            </step>
+            <step>
+                <cmd>Wash each part by hand with warm soapy water. These parts <b>do not</b> belong
+                    in a dishwasher because they may become seriously damaged.</cmd>
+            </step>
+            <step>
+                <cmd>Completely dry all parts.</cmd>
+            </step>
+            <step>
+                <cmd>Clean the base with a damp cloth.</cmd>
+            </step>
+            <step>
+                <cmd>Put the freezer bowl back in the freezer in the Shanks Hall 3rd floor break room (Room 380).</cmd>
+            </step>
+            <step>
+                <cmd>Store the appliance and remianing parts in a responsible location that is room-temperature and has no exposure to water. Ensure that the appliance is no longer turned on or plugged in. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

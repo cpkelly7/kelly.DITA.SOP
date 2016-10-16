@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_recipes_rasp_steps">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Combine water and sugar in a medium saucepan over medium-low heat to make the sorbet syrup. Cook until the sugar is completely dissolved.</cmd>
+            </step>
+            <step>
+                <cmd>Once the syrup is ready, remove it from the stove and add the mint and salt. Steep the mixture for 15-20 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Add raspberries to the mixture. Blend the mixture in the Cuisinart Immersion Blender until it is smooth. Strain the mixture and then let it adjust to room temperature.</cmd>
+            </step>
+            <step>
+                <cmd>Once it is room temperature, cover the mixture and let it refridgerate for <b>at least</b>two hours.</cmd>
+            </step>
+            <step>
+                <cmd>After the mixture has refridgerated for two hours, you may begin to use the ice cream maker. Follow the instructions on page 3 for how to turn on the appliance. For this recipe, you will be selecting the "Sorbet" button.</cmd>
+            </step>
+            <step>
+                <cmd>When the appliance is on and running, you may begin to pour the mixture through the spout on the lid.</cmd>
+            </step>
+            <step>
+                <cmd>Cover the spout with the cap.</cmd>
+            </step>
+            <step>
+                <cmd>Let it mix for any time between 15-40 minutes or to your desired thickness.</cmd>
+                <info>
+                    <note type="tip">If the sorbet is still not as thick as you'd like, transfer the sorbet into an airtight container and let it freeze for 2 extra hours.</note>
+                    <image placement="break" href="../../Desktop/RaspberrySorbet.jpg" width="2in"
+                        height="1in" align="center" id="image_bfj_ypx_px"/>
+                    
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

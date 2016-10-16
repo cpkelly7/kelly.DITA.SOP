@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_related_links">
+    <title>Related Links</title>
+    <taskbody>
+        <context>
+            <p>Here are some links you may find useful. You may use these as references for how Cuisinart ice cream makers typically work.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd><xref href="https://www.youtube.com/watch?v=E4cEZzMSpaQ" format="html"
+                        scope="external"/></cmd>
+            </step>
+            <step>
+                <cmd><xref href="https://www.youtube.com/watch?v=Jp-hJ-MhiSE" format="html"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

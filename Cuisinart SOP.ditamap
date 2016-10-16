@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>A Guide to the Cuisinart ICE-60W Ice Cream Maker in Shanks Hall: By Colleen Kelly</title>
+ <topicref href="cIntro.dita"/>
+ <topicref href="topMachineBasics.dita">
+  <topicref href="tMachineBasicsSAFEGUARDS.dita"/>
+  <topicref href="tMachineBasicsHOWTOSTART.dita"/>
+  <topicref href="tMachineBasicsHOWTOCLEANintro.dita">
+   <topicref href="tMachineBasicsHOWTOCLEANsteps.dita"/>
+  </topicref>
+  <topicref href="tMachineBasicsTROUBLESHOOTING.dita"/>
+ </topicref>
+ <topicref href="topRecipesCuisinart.dita">
+  <topicref href="tRecipesCHOCOLATEintro.dita">
+   <topicref href="tRecipesCHOCOLATEsteps.dita"/>
+  </topicref>
+  <topicref href="tRecipesVANILLAintro.dita">
+   <topicref href="tRecipesVANILLAsteps.dita"/>
+  </topicref>
+  <topicref href="tRecipesRASPBERRYintro.dita">
+   <topicref href="tRecipesRASPBERRYsteps.dita"/>
+  </topicref>
+  <topicref href="postrequisites.dita"/>
+ </topicref>
+ <topicref href="topRelatedLinks.dita"/>
+ <topicref href="topReferences.dita"/>
+</map>

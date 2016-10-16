@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_recipes_vanilla_intro">
+    <title>Basic Vanilla Gelato</title>
+    <shortdesc>This recipe makes about 5 cups (ten 1/2 cups). You may adjust the measurements to the amount of gelato you desire. <b>Note</b> that you will need <b>two or more hours</b> to let the mixture cool before putting it in the machine.</shortdesc>
+    <taskbody>
+        <context>
+            <p>For this recipe, you will need these ingredients:</p>
+        </context>
+        <steps-unordered>
+            <step>
+                <cmd>1 cup heavy cream</cmd>
+            </step>
+            <step>
+                <cmd>3 cups whole milk, divided</cmd>
+            </step>
+            <step>
+                <cmd>1 cup granulated sugar</cmd>
+            </step>
+            <step>
+                <cmd>2 tablespoons corn starch</cmd>
+            </step>
+            <step>
+                <cmd>Pinch of kosher salt</cmd>
+            </step>
+            <step>
+                <cmd>1/2 teaspoon pure vanilla extract</cmd>
+            </step>
+            <step>
+                <cmd>1 tablespoon liquid pectin</cmd>
+            </step>
+            <step>
+                <cmd>1 medium saucepan</cmd>
+            </step>
+            <step>
+                <cmd>1 whisk</cmd>
+            </step>
+            <step>
+                <cmd>1 wooden spoon</cmd>
+            </step>
+            <step>
+                <cmd>1 small or medium mixing bowl</cmd>
+            </step>
+            <step>
+                <cmd>1 container</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

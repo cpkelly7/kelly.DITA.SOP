@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_machinebasics_start">
+    <title>How to Start the ICE-60W</title>
+    <taskbody>
+     <context>
+            <p>Starting the ICE-60W is not as simple as pressing a button. Read the following instructions so you can quickly and properly make your delicious dessert.</p>
+     </context>
+        <steps>
+            <step>
+                <cmd>Before the fun can begin, go to the Shanks Hall break room on the 3rd floor
+                    (Room 380) to retrieve the freezer bowl from the freezer. The freezer bowl
+                        <b>must</b> remain in the freezer at all times unless it is in use.</cmd>
+                <substeps>
+                    <substep>
+                    <cmd> To ensure that the freezer bowl is frozen, shake it around. If you hear
+                        the sound of water moving, it is not frozen enough. Put the freezer bowl
+                        back in the freezer and wait until it is completely frozen. The freezer bowl
+                        will look like this:<image placement="break"
+                            href="../../Desktop/FreezerBowl.png" width="1in" height="1in"
+                            align="center" id="image_mry_z1s_px"/></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Place the freezer bowl into the base of the machine. The base looks like
+                        this:<image placement="break" href="../../Desktop/MachineBase.png"
+                        width="1in" height="1in" align="center" id="image_rjh_4cs_px"/></cmd>
+            </step>
+            <step>
+                <cmd>Once the freezer bowl is securely in the base, put the mixing arm into the
+                    freezer bowl with the circle side facing up.The mixing arm looks like this:
+                        <image placement="break" href="../../Desktop/MixingArm.png" width="1in"
+                        height="1in" align="center" id="image_z5j_k2s_px"/></cmd>
+            </step>
+            <step>
+                <cmd>Place the easy-lock lid on the base of the appliance and have it positioned
+                    slightly towards the right. Turn it clockwise to lock. This is what the lid
+                    looks like: <image placement="break" href="../../Desktop/EasyLockLid.png"
+                        width="1in" height="0.5in" align="center" id="image_oqg_r2s_px"/></cmd>
+            </step>
+            <step>
+                <cmd>Plug in the appliance. Plugging it in should cause the buttons to light up.</cmd>
+            </step>
+            <step>
+                <cmd>Select your function (Ice Cream, Gelato, Sorbet).</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Wait for a beeping sound. This indicates that the machine is ready.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Once you hear the beeping sound, select the Start/Stop button to start the appliance.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

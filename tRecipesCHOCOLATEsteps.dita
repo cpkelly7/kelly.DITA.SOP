@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_recipes_choc_steps">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Combine the cocoa powder, sugars, and salt in a medium bowl. Use the whisk to completely combine the three ingredients.</cmd>
+                <info>
+                    <note type="remember">Break up any large pieces in the bowl.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Add whole milk to the mixture. You may use the hand mixer on low speed or the whisk to combine the ingredients. Ensure that the ingredients have dissolved into each other before moving onto the next step.</cmd>
+            </step>
+            <step>
+                <cmd>Use the wooden spoon to stir the mixture. While stirring, pour in the heavy cream and vanilla extract. Continue to stir until the ingredients are evenly mixed.</cmd>
+            </step>
+            <step>
+                <cmd>Cover the bowl with plastic wrap and place it in the refridgerator in the Shanks Hall break room in room 380. Let the mixture refridgerate for <b>at least</b> two hours.</cmd>
+            </step>
+            <step>
+                <cmd>Once the mixture has been refridgerator for 2 hours, you may begin to make it. Follow the instructions on page 3 to turn on the appliance. Make sure to select the "Ice Cream" button for this recipe.</cmd>
+            </step>
+            <step>
+                <cmd>When the machine is up and running, you can begin to pour the mixture in through the spout on the lid.</cmd>
+            </step>
+            <step>
+                <cmd>Cover the spout with the cap.</cmd>
+            </step>
+            <step>
+                <cmd>This recipe can take anywhere from 15-40 minutes. Typically, it should take 25-30 minutes, but it all depends on the desired thickness for your ice cream.</cmd>
+                <info>
+                    <note type="tip">If the ice cream is still not as thick as you'd like, transfer the ice
+                        cream into an airtight container and let it freezer for 2 extra hours.</note>
+                        <image placement="break"
+                            href="../creating%20user%20docs/sillyditademos-master/monkeydita/chocolate_photo.jpg"
+                            width="1.5in" height="1in" align="center" id="image_o4z_yws_px"/>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

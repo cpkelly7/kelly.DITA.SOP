@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_recipes_vanilla_steps">
+    <title>Steps</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Go to the Shanks Hall third floor break room (Room 380) and set the stove to medium/medium-low heat. Combine the cream and 2 cups of milk in a medium saucepan. Bring the mixture to a simmer.</cmd>
+            </step>
+            <step>
+                <cmd>Combine the leftover milk, sugar, cornstarch, salt, and vanilla in a small or medium mixing bowl and whisk the ingredients to mix.</cmd>
+            </step>
+            <step>
+                <cmd>Once the mixture on the stove comes to a simmer, add the ingredients you mixed in step 2 to the saucepan and stir until the ingredients are completely combined.</cmd>
+            </step>
+            <step>
+                <cmd>With the saucepan still over medium/medium-low heat, stir the mixture continuously until it begins to thicken. It should be in a strong simmer.</cmd>
+                <info>
+                    <note type="tip">You will know the mixture is good enough when it coats the back of the spoon.</note>
+                </info>
+            </step>
+            <step>
+                <cmd>Turn the stove off and remove the pan. Now stir in the pectin. Once the pectin is mixed in, strain the mixture and let it cool to room temperature.</cmd>
+            </step>
+            <step>
+                <cmd>Place the room temperature mixture into a container and cover it. Let the mixture refridgerate for <b>at least two hours.</b></cmd>
+            </step>
+            <step>
+                <cmd>After refridgerating the mixture for two hours, remove the cover and whisk the mixture.</cmd>
+            </step>
+            <step>
+                <cmd>After whisking the mixture, you may begin to use the ice cream maker. Follow the instructions on page 3 for how to turn on the appliance. For this recipe, you will be selecting the "Gelato" button.</cmd>
+            </step>
+            <step>
+                <cmd>When the machine is on and running, you may begin to pour the mixture through the spout on the lid.</cmd>
+            </step>
+            <step>
+                <cmd>Cover the spout with the cap.</cmd>
+            </step>
+            <step>
+                <cmd>Let it mix for any time between 15-40 minutes. Typically, it should take around 40 minutes, but it depends on your desired thickness for your gelato.</cmd>
+                <info>
+                    <note type="tip">If the gelato is still not as thick as you'd like, transfer the gelato into an airtight container and let it freeze for 2 extra hours.</note>
+                    <image placement="break" href="../../Desktop/Gelato.jpg" width="2in"
+                        height="1in" align="center" id="image_vfx_1n5_px"/>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

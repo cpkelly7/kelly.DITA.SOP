@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_machinebasics_safeguards">
+    <title>Safeguards</title>
+    <taskbody>
+        <context>
+        <p>Reading about and understanding the safeguards will prevent injury and fire/electrical hazards.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Do not place cord, plug, or base of the ICE-60W in water or any liquid.</cmd>
+            </step>
+            <step>
+                <cmd>Please be cautious and supervise any children that are using or nearby the ICE-60W</cmd>
+            </step>
+            <step>
+                <cmd>Unplug the cord when you are setting up and cleaning the machine.</cmd>
+            </step>
+            <step>
+                <cmd>Keep body parts and utensils away from the ICE-60W while it is in motion.</cmd>
+            </step>
+            <step>
+                <cmd>Do not operate the appliance if there has been any sort of damage done to the machine. Get it fixed promptly.</cmd>
+            </step>
+            <step>
+                <cmd>Do not add any attachments as it may cause a fire or electrical hazard.</cmd>
+            </step>
+            <step>
+                <cmd>The cord should not hang or touch any hot surfaces.</cmd>
+            </step>
+            <step>
+                <cmd>Do not put the freezer bowl in any hot conditions to reduce risk of hazards and injury. Those conditions may include flames, hot plates, stoves, and the dishwasher.</cmd>
+            </step>
+            <step>
+                <cmd>Always unplug your appliance before storing it. You should not use your appliance when it is stored.</cmd>
+            </step>
+        </steps>
+        <postreq>
+            <b>How to Start the ICE-60W</b>
+            <hazardstatement>
+                <messagepanel>
+                    <typeofhazard>THIS APPLIANCE IS FOR HOUSEHOLD USE ONLY!</typeofhazard>
+                    <howtoavoid>Do not use outdoors! If repairs are needed, notify a professor and they will contact an authorized service representative promptly.</howtoavoid>
+                </messagepanel>
+            </hazardstatement>
+        </postreq>
+    </taskbody>
+</task>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_machinebasics_troubleshooting">
+    <title>Troubleshooting</title>
+    <taskbody>
+        <context>
+            <p>Here, we will cover a few troubleshooting basics for the appliance. If your concern cannot be found here, or you suspect your appliance is damaged, call the Cuisinart Service center at 1-800-726-0190. If you are a student, I would notify a professor or staff member about the appliance's issue. Additionally, please e-mail me at cpkelly@vt.edu so I can spread the news around Shanks.</p>
+        </context>
+        <steps-unordered>
+            <step>
+                <cmd><b>Scenario 1:</b>I selected the wrong function.</cmd>
+                <substeps>
+                    <substep>
+                    <cmd>Resolution: Press the Start/Stop button <b>twice</b> to reset the
+                        function.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Scenario 2:</b>The appliance is frequently beeping every couple of minutes</cmd>
+                <substeps>
+                    <substep>
+                    <cmd>Resolution: The beeping indicates that your dessert is done. Turn off the appliance by selecting the Start/Stop button.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Scenario 3:</b>The appliance stopped working after I started it.</cmd>
+                <substeps>
+                    <substep>
+                    <cmd>Resolution: It may be that there are too many ingredients in the appliance and it is being weighed down. It is also possible that the recipe is incomplete. To resolve this, press the Start/Stop button to turn off the appliance. Let the appliance cool.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Scenario 4:</b>I finished my recipe, but the ice cream was too thin. What can I do?</cmd>
+                <substeps>
+                    <substep>
+                    <cmd>Resolution: Thin ice cream is a result of a freezer bowl that is not frozen enough. Return the bowl to the freezer and re-do the process again once the freezer bowl is frozen enough.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>

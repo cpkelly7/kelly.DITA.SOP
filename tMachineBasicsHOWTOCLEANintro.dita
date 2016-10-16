@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_machinebasics_clean">
+    <title>How to Clean the ICE-60W</title>
+    <taskbody>
+        <context>Knowing how to properly clean the appliance is important because a properly clean machine will make great ice cream with it's next use. For the following task, you will need to have these materials:</context>
+        <steps-unordered>
+            <step>
+                <cmd>Soap</cmd>
+            </step>
+            <step>
+                <cmd>Damp cloth</cmd>
+            </step>
+            <step>
+                <cmd>A dry, room-temperature storage space</cmd>
+            </step>
+        </steps-unordered>
+    </taskbody>
+</task>
